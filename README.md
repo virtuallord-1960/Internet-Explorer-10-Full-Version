@@ -242,4 +242,4 @@ This repository serves as the official landing page for Internet Explorer 10. Th
 **Get the most recent version of Internet Explorer 10 today!**
 
 ---
-**Last updated:** 2026-09-13 11:26:44 UTC
+**Last updated:** 2026-09-13 15:55:51 UTC
